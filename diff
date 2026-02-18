@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TSHIRTCHOICE | Unisex T-Shirts</title>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f7f7f7;
+  color: #333;
+}
+header {
+  background: #000;
+  color: #fff;
+  padding: 15px;
+  text-align: center;
+}
+section {
+  padding: 20px;
+  margin: 10px;
+  background: #fff;
+  border-radius: 6px;
+}
+h2 {
+  color: #000;
+}
+.btn {
+  display: inline-block;
+  padding: 12px 18px;
+  background: #25D366;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.price {
+  font-weight: bold;
+}
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #000;
+  color: #fff;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h1>TSHIRTCHOICE</h1>
+  <p>Unisex Tops & T-Shirts | Comfort • Style • Quality</p>
+</header>
+
+<section>
+  <h2>Welcome</h2>
+  <p>
+    Welcome to <b>TSHIRTCHOICE</b>, your trusted online destination for premium unisex tops and T-shirts.
+    Prices may vary according to <b>size and fabric</b> to ensure best quality at the right value.
+  </p>
+  <a class="btn" href="https://wa.me/918013473441">Order on WhatsApp</a>
+</section>
+
+<section>
+  <h2>Our Products</h2>
+
+  <h3>👕 Unisex T-Shirts</h3>
+  <p>
+    <b>Fabric Options & Price Range:</b><br>
+    Cotton: ₹399 – ₹499<br>
+    Premium Cotton: ₹549 – ₹649<br>
+    Oversized Cotton: ₹699 – ₹799
+  </p>
+  <p class="price">Sizes: S | M | L | XL | XXL</p>
+  <p><i>Final price depends on selected size & fabric</i></p>
+  <a class="btn" href="https://wa.me/918013473441">Order Now</a>
+
+  <hr>
+
+  <h3>👕 Unisex Tops</h3>
+  <p>
+    Fabric: Cotton Blend / Lycra Blend / Premium Fabric<br>
+    Price: ₹499 onwards
+  </p>
+  <p class="price">Sizes Available</p>
+  <a class="btn" href="https://wa.me/918013473441">Order Now</a>
+</section>
+
+<section>
+  <h2>About Us</h2>
+  <p>
+    <b>TSHIRTCHOICE</b> is an India-based online clothing brand focused on modern unisex fashion.
+    We believe in quality fabrics, transparent pricing, and customer satisfaction.
+  </p>
+</section>
+
+<section>
+  <h2>Contact & Orders</h2>
+  <p>
+    📱 WhatsApp Orders Only: <b>8013473441</b><br>
+    💳 Payment: UPI / Google Pay / PhonePe<br>
+    🚚 Delivery: Pan India (3–7 working days)
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 TSHIRTCHOICE. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
